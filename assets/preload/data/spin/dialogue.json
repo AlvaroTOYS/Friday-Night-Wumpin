@@ -1,0 +1,124 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BEEP  BOP SKDEP  BEEP BAP !"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BF SAYS WE NEED TO GO  , HE THINKS MY DAD MIGHT BE, ANGRY I'M GONE FOR TOO LONG."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "akuaku",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "WELL  ,IN THAT CASE THAT WAS A BLAST ! WHAT DO YOU THINK CRASH  ?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "crash",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ".  .  .  . AGGEAGA  ?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "akuaku",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "IT SEEMS LIKE CRASHIS ENJOYING THIS RAP BATTLE AND HE IS WEEL"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "akuaku",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "SAD TO SEE YOU LEAVE ALEREADY."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ".  .  . BEEP  BEEP  !"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "YOU  WANNA GO FOR A LAST ROUND BF?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BEEP  BEDAP  SKDEP "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ALRIGHT THEN  , BF SAYS HE'S UP FOR ONE LAST ROUND"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "THOUGH HE ASKS CRASH TO HOLD NOTHING BACK"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "crash",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "AGEGAGHA  BONGA !"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "akuaku",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "CRASH SAYS HE ACCEPTS THE CHALLENGE"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "akuaku",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "AND HE IS NOT GOING TO HOLD BACK ANTYTHING"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "IT'S  SETTLED THEN."
+		}
+	]
+}
