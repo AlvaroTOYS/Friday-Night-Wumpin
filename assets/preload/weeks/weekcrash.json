@@ -1,0 +1,50 @@
+{
+	"storyName": "vs crash bandicoot",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"wump",
+			"crash",
+			[
+				255,
+				93,
+				33
+			]
+		],
+		[
+			"crates",
+			"crash",
+			[
+				255,
+				93,
+				33
+			]
+		],
+		[
+			"spin",
+			"crash",
+			[
+				255,
+				93,
+				33
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"sofa",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": ""
+}
