@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "akuaku",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "THAT WAS QUITE NICE !"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BEEP !"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "crash",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "AGAGAHA"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "akuaku",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "IF YOU'RE  NEEDING TO GO,  I  UNDERSTAND, BUT WOULD YOU BE UP FOR ONE  MORE?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "WHAT  DO  YOU THINK, BF?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BEEP   ,   BOOP BOP  !"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "HE SAYS WE CAN STAY  FOR ANOTHER"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "akuaku",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "AH!    WONDERFUL  !"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "akuaku",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "LET US CONTINUE,  THEM  !"
+		}
+	]
+}
