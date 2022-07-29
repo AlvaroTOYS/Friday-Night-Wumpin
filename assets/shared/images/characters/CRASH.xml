@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CRASH.png">
+<SubTexture name="CRASH idle0000" x="6" y="5" width="856" height="1013" frameX="0" frameY="0" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH idle0001" x="871" y="2" width="870" height="1006" frameX="0" frameY="0" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH idle0002" x="1751" y="10" width="882" height="1008" frameX="0" frameY="0" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH idle0003" x="2677" y="11" width="909" height="1008" frameX="0" frameY="0" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH idle0004" x="4" y="1044" width="894" height="1013" frameX="0" frameY="0" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH idle0005" x="4" y="1044" width="894" height="1013" frameX="0" frameY="0" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH idle0006" x="2677" y="11" width="909" height="1008" frameX="0" frameY="0" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH idle0007" x="1751" y="10" width="882" height="1008" frameX="0" frameY="0" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH idle0008" x="871" y="2" width="870" height="1006" frameX="0" frameY="0" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH idle0009" x="6" y="5" width="856" height="1013" frameX="0" frameY="0" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH down0000" x="1844" y="1040" width="784" height="1025" frameX="-40" frameY="0" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH down0001" x="1844" y="1040" width="784" height="1025" frameX="-40" frameY="0" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH down0002" x="2649" y="1038" width="784" height="1025" frameX="-40" frameY="0" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH down0003" x="2649" y="1038" width="784" height="1025" frameX="-40" frameY="0" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH left0000" x="6" y="2063" width="985" height="919" frameX="0" frameY="-50" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH left0001" x="6" y="2063" width="985" height="919" frameX="0" frameY="-50" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH left0002" x="1075" y="2065" width="985" height="919" frameX="0" frameY="-50" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH left0003" x="1075" y="2065" width="985" height="919" frameX="0" frameY="-50" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH right0000" x="2110" y="2069" width="793" height="962" frameX="-50" frameY="-10" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH right0001" x="2110" y="2069" width="793" height="962" frameX="-50" frameY="-10" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH right0002" x="2911" y="2068" width="792" height="955" frameX="-50" frameY="-10" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH right0003" x="2911" y="2068" width="792" height="955" frameX="-50" frameY="-10" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH up0000" x="7" y="2995" width="915" height="992" frameX="-80" frameY="-0" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH up0001" x="7" y="2995" width="915" height="992" frameX="-80" frameY="-0" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH up0002" x="968" y="2984" width="915" height="992" frameX="-80" frameY="-0" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH up0003" x="2041" y="3020" width="911" height="979" frameX="-80" frameY="-5" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH up0004" x="2041" y="3020" width="911" height="979" frameX="-80" frameY="-5" frameWidth="1047" frameHeight="1047" />
+<SubTexture name="CRASH up0005" x="2041" y="3020" width="912" height="980" frameX="-80" frameY="-5" frameWidth="1047" frameHeight="1047" />
+</TextureAtlas>
